@@ -1,0 +1,53 @@
+alert {
+  text-align: center;
+  background-color: blue;
+}
+
+body {
+    background-color: #F76E11;
+}
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+h5 {
+  color: white;
+}
+.icon {
+  width: 30%;
+  display: inline-block;
+
+}
+
+#navbar-section {
+  background-color: #F76E11;
+}
+.row {
+  padding: 5%;
+  margin: 3%;
+  text-align: center;
+}
+
+.card-text {
+  color: white;
+}
+
+.container-fluid {
+  padding: 3% 10%;
+}
+
+#our-teachers {
+  text-align: center;
+  background-color: #ACB992;
+}
+
+.carousel-item {
+  padding: 3% 15%;
+}
+
+.teacher-photos {
+  width: 70%;
+  margin: 30px;
+}
